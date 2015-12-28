@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It adds the .git file and creates a repo so you can start commiting to git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is user driven which allows a user to determine the logical commits they would make to git.
+This will make you commits and commit history more logical and easies to read
